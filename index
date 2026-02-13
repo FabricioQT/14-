@@ -1,1 +1,45 @@
-
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Marck+Script&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="style.css">
+    <title>San Valentin Carta 1v</title>
+</head>
+<body>
+    <h1>¡Feliz 14 de Febrero! ❤️</h1>
+    <div class="contenedor">
+        <div class="envoltura-sobre">
+            <div class="sobre">
+                <div class="carta">
+                    <div class="contenido">
+                        <strong>Para Emilhya</strong>
+                        <p>
+                            Mi amor , mi Emmisus, mi todo , con esta carta quiero decirte 
+                            lo mucho que te amo, lo cual importante eres para mi, y no solo porque hoy sea unm
+                            dia especial , si no que para mi todos los dias son 14 de febrero porque mi amor por ti 
+                            aumente cada dia mas , y sera asi por la eternidad. Quiero que sepas que te amo con todo mi corazon
+                            y que cada dia me ezfuerzo para ser mejor para ti, quiero tener un futuro a tu lado y que cada dia nos amemos mas
+                            , que siempre seamos tu , yo y el señor en medio... Dejame decirte que estoy orgulloso de ti amor
+                            de todo lo que haces dia a dia y estoy seguro que llegaras muy lejos , y tambien estoy seguro 
+                            que este año lograras todo lo que te propongas y ahi estare yo dandete animos y apoyandote siempre
+                            te amo infinito amor mio 
+                            <br> <strong>Feliz San Valentín</strong>, Con mucho <strong>código</strong> (y <strong>amor</strong>)
+                            , <br> Tu programador Fabrisus<br> 
+                                    
+                        </p>
+                    </div>
+                </div>
+            </div>
+            <div class="corazon"></div>
+            <div class="solapa-derecha"></div>
+            <div class="solapa-izquierda"></div>
+        </div>
+    </div>
+    <!-- <script src="script_v2.js"></script> -->
+     <script src="script_v2.js"></script>
+</body>
+</html>
